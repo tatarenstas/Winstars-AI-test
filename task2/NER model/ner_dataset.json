@@ -1,0 +1,1826 @@
+[
+  {
+    "tokens": [
+      "There",
+      "is",
+      "a",
+      "dog",
+      "in",
+      "the",
+      "field."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "saw",
+      "a",
+      "dog",
+      "near",
+      "the",
+      "barn."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "wild",
+      "dog",
+      "was",
+      "spotted",
+      "in",
+      "the",
+      "forest."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "Look",
+      "at",
+      "that",
+      "dog!"
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "have",
+      "a",
+      "dog",
+      "as",
+      "a",
+      "pet."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "dog",
+      "is",
+      "playing",
+      "in",
+      "the",
+      "yard."
+    ],
+    "ner_tags": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "Do",
+      "you",
+      "see",
+      "the",
+      "dog",
+      "over",
+      "there?"
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "dog",
+      "is",
+      "running",
+      "fast."
+    ],
+    "ner_tags": [
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "is",
+      "a",
+      "cat",
+      "in",
+      "the",
+      "field."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "saw",
+      "a",
+      "cat",
+      "near",
+      "the",
+      "barn."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "wild",
+      "cat",
+      "was",
+      "spotted",
+      "in",
+      "the",
+      "forest."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "Look",
+      "at",
+      "that",
+      "cat!"
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "have",
+      "a",
+      "cat",
+      "as",
+      "a",
+      "pet."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "cat",
+      "is",
+      "playing",
+      "in",
+      "the",
+      "yard."
+    ],
+    "ner_tags": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "Do",
+      "you",
+      "see",
+      "the",
+      "cat",
+      "over",
+      "there?"
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "cat",
+      "is",
+      "running",
+      "fast."
+    ],
+    "ner_tags": [
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "is",
+      "a",
+      "cow",
+      "in",
+      "the",
+      "field."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "saw",
+      "a",
+      "cow",
+      "near",
+      "the",
+      "barn."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "wild",
+      "cow",
+      "was",
+      "spotted",
+      "in",
+      "the",
+      "forest."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "Look",
+      "at",
+      "that",
+      "cow!"
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "have",
+      "a",
+      "cow",
+      "as",
+      "a",
+      "pet."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "cow",
+      "is",
+      "playing",
+      "in",
+      "the",
+      "yard."
+    ],
+    "ner_tags": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "Do",
+      "you",
+      "see",
+      "the",
+      "cow",
+      "over",
+      "there?"
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "cow",
+      "is",
+      "running",
+      "fast."
+    ],
+    "ner_tags": [
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "is",
+      "a",
+      "horse",
+      "in",
+      "the",
+      "field."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "saw",
+      "a",
+      "horse",
+      "near",
+      "the",
+      "barn."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "wild",
+      "horse",
+      "was",
+      "spotted",
+      "in",
+      "the",
+      "forest."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "Look",
+      "at",
+      "that",
+      "horse!"
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "have",
+      "a",
+      "horse",
+      "as",
+      "a",
+      "pet."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "horse",
+      "is",
+      "playing",
+      "in",
+      "the",
+      "yard."
+    ],
+    "ner_tags": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "Do",
+      "you",
+      "see",
+      "the",
+      "horse",
+      "over",
+      "there?"
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "horse",
+      "is",
+      "running",
+      "fast."
+    ],
+    "ner_tags": [
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "is",
+      "a",
+      "elephant",
+      "in",
+      "the",
+      "field."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "saw",
+      "a",
+      "elephant",
+      "near",
+      "the",
+      "barn."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "wild",
+      "elephant",
+      "was",
+      "spotted",
+      "in",
+      "the",
+      "forest."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "Look",
+      "at",
+      "that",
+      "elephant!"
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "have",
+      "a",
+      "elephant",
+      "as",
+      "a",
+      "pet."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "elephant",
+      "is",
+      "playing",
+      "in",
+      "the",
+      "yard."
+    ],
+    "ner_tags": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "Do",
+      "you",
+      "see",
+      "the",
+      "elephant",
+      "over",
+      "there?"
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "elephant",
+      "is",
+      "running",
+      "fast."
+    ],
+    "ner_tags": [
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "is",
+      "a",
+      "tiger",
+      "in",
+      "the",
+      "field."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "saw",
+      "a",
+      "tiger",
+      "near",
+      "the",
+      "barn."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "wild",
+      "tiger",
+      "was",
+      "spotted",
+      "in",
+      "the",
+      "forest."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "Look",
+      "at",
+      "that",
+      "tiger!"
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "have",
+      "a",
+      "tiger",
+      "as",
+      "a",
+      "pet."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "tiger",
+      "is",
+      "playing",
+      "in",
+      "the",
+      "yard."
+    ],
+    "ner_tags": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "Do",
+      "you",
+      "see",
+      "the",
+      "tiger",
+      "over",
+      "there?"
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "tiger",
+      "is",
+      "running",
+      "fast."
+    ],
+    "ner_tags": [
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "is",
+      "a",
+      "lion",
+      "in",
+      "the",
+      "field."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "saw",
+      "a",
+      "lion",
+      "near",
+      "the",
+      "barn."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "wild",
+      "lion",
+      "was",
+      "spotted",
+      "in",
+      "the",
+      "forest."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "Look",
+      "at",
+      "that",
+      "lion!"
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "have",
+      "a",
+      "lion",
+      "as",
+      "a",
+      "pet."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "lion",
+      "is",
+      "playing",
+      "in",
+      "the",
+      "yard."
+    ],
+    "ner_tags": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "Do",
+      "you",
+      "see",
+      "the",
+      "lion",
+      "over",
+      "there?"
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "lion",
+      "is",
+      "running",
+      "fast."
+    ],
+    "ner_tags": [
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "is",
+      "a",
+      "rabbit",
+      "in",
+      "the",
+      "field."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "saw",
+      "a",
+      "rabbit",
+      "near",
+      "the",
+      "barn."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "wild",
+      "rabbit",
+      "was",
+      "spotted",
+      "in",
+      "the",
+      "forest."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "Look",
+      "at",
+      "that",
+      "rabbit!"
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "have",
+      "a",
+      "rabbit",
+      "as",
+      "a",
+      "pet."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "rabbit",
+      "is",
+      "playing",
+      "in",
+      "the",
+      "yard."
+    ],
+    "ner_tags": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "Do",
+      "you",
+      "see",
+      "the",
+      "rabbit",
+      "over",
+      "there?"
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "rabbit",
+      "is",
+      "running",
+      "fast."
+    ],
+    "ner_tags": [
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "is",
+      "a",
+      "deer",
+      "in",
+      "the",
+      "field."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "saw",
+      "a",
+      "deer",
+      "near",
+      "the",
+      "barn."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "wild",
+      "deer",
+      "was",
+      "spotted",
+      "in",
+      "the",
+      "forest."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "Look",
+      "at",
+      "that",
+      "deer!"
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "have",
+      "a",
+      "deer",
+      "as",
+      "a",
+      "pet."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "deer",
+      "is",
+      "playing",
+      "in",
+      "the",
+      "yard."
+    ],
+    "ner_tags": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "Do",
+      "you",
+      "see",
+      "the",
+      "deer",
+      "over",
+      "there?"
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "deer",
+      "is",
+      "running",
+      "fast."
+    ],
+    "ner_tags": [
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "is",
+      "a",
+      "bear",
+      "in",
+      "the",
+      "field."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "saw",
+      "a",
+      "bear",
+      "near",
+      "the",
+      "barn."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "wild",
+      "bear",
+      "was",
+      "spotted",
+      "in",
+      "the",
+      "forest."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "Look",
+      "at",
+      "that",
+      "bear!"
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "have",
+      "a",
+      "bear",
+      "as",
+      "a",
+      "pet."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "bear",
+      "is",
+      "playing",
+      "in",
+      "the",
+      "yard."
+    ],
+    "ner_tags": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "Do",
+      "you",
+      "see",
+      "the",
+      "bear",
+      "over",
+      "there?"
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "bear",
+      "is",
+      "running",
+      "fast."
+    ],
+    "ner_tags": [
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "is",
+      "a",
+      "fox",
+      "in",
+      "the",
+      "field."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "saw",
+      "a",
+      "fox",
+      "near",
+      "the",
+      "barn."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "wild",
+      "fox",
+      "was",
+      "spotted",
+      "in",
+      "the",
+      "forest."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "Look",
+      "at",
+      "that",
+      "fox!"
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "have",
+      "a",
+      "fox",
+      "as",
+      "a",
+      "pet."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "fox",
+      "is",
+      "playing",
+      "in",
+      "the",
+      "yard."
+    ],
+    "ner_tags": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "Do",
+      "you",
+      "see",
+      "the",
+      "fox",
+      "over",
+      "there?"
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "fox",
+      "is",
+      "running",
+      "fast."
+    ],
+    "ner_tags": [
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "There",
+      "is",
+      "a",
+      "wolf",
+      "in",
+      "the",
+      "field."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "saw",
+      "a",
+      "wolf",
+      "near",
+      "the",
+      "barn."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "wild",
+      "wolf",
+      "was",
+      "spotted",
+      "in",
+      "the",
+      "forest."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "Look",
+      "at",
+      "that",
+      "wolf!"
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "I",
+      "have",
+      "a",
+      "wolf",
+      "as",
+      "a",
+      "pet."
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "The",
+      "wolf",
+      "is",
+      "playing",
+      "in",
+      "the",
+      "yard."
+    ],
+    "ner_tags": [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "Do",
+      "you",
+      "see",
+      "the",
+      "wolf",
+      "over",
+      "there?"
+    ],
+    "ner_tags": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ]
+  },
+  {
+    "tokens": [
+      "A",
+      "wolf",
+      "is",
+      "running",
+      "fast."
+    ],
+    "ner_tags": [
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  }
+]
