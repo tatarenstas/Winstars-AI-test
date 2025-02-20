@@ -17,3 +17,8 @@ This project implements a pipeline for animal detection using a Named Entity Rec
     ```
 
 3. Run the Python script `pipeline.py` to execute the animal detection pipeline using your text and images.
+
+### Update
+The ner_model.pth file is too large for GitHub (410 MB) and cannot be uploaded to the repository. However, you can download the model from the following link:
+
+https://drive.google.com/file/d/1mQeKWDOUHWbNsuvungbJ6vp5hPbOIqDA/view?usp=sharing
